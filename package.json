@@ -1,0 +1,22 @@
+{
+  "name": "javascriptfuerfynn",
+  "version": "1.0.0",
+  "description": "Script for the MTV EMA to automate voting for Fynn Kliemann #ventilatorfürfynn",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "playwright": "^1.5.1"
+  },
+  "scripts": {
+    "vote": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvinhuebner/javascriptfuerfynn.git"
+  },
+  "author": "Marvin Hübner",
+  "bugs": {
+    "url": "https://github.com/marvinhuebner/javascriptfuerfynn/issues"
+  },
+  "homepage": "https://github.com/marvinhuebner/javascriptfuerfynn#readme"
+}
